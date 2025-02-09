@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Omar Aviles!
+Computer Engineering student @ SDSU | 🏎️ Formula SAE EV Enthusiast
+
 
 <!--
 **AviOmi/AviOmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
