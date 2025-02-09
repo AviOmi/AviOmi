@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Omar Aviles!
-Computer Engineering student @ SDSU | 🏎️ Formula SAE EV Enthusiast
-
+Computer Engineering student @ SDSU | 🏎️ Formula SAE Enthusiast
+- 🔋 I'm interested in battery managment systems and other embedded systems in vehicles
+- 🌱 I’m currently learning Database and Web Development
+- 🛠️ I'm a controls hardware lead @Aztec Electric Racing
 
 <!--
 **AviOmi/AviOmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
